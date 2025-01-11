@@ -1,3 +1,5 @@
+# Hi 👋 I'm Moses Muncibay
+
 # 💫 About Me: 
 I'm a recent Computer Science graduate with a passion for crafting innovative solutions using machine learning and artificial intelligence. My journey in tech has been fueled by curiosity and hands-on projects, from detecting image forgeries with ResNet50 and Vision Transformers to building real-time emotion detection systems with OpenCV and DeepFace.<br>
 
